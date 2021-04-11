@@ -7,7 +7,7 @@
 <b>개발기간 / 참여인원</b> : 2019.12.19 ~ 2020.01.16. (41일) / 6명 (문찬호, 박은진, 오유진, 장동홍, 최수녕, 최우석) <br><br>
 <b>사용언어</b> : Java, HTML5, CSS3, JavaScript <br><br>
 <b>DB</b> : Oracle, AWS <br><br>
-<b>라이브러리</b> : Jquery, lombok, log4j, jackson, security, AOP, tiles, fileupload, JSTL, Jdbc, Chart,<br>
+<b>라이브러리</b> : Jquery, lombok, log4j, jackson, security, tiles, fileupload, JSTL, Jdbc, Chart,<br>
 우편번호 API, 아임포트 결제 API, javaMail API, 카카오 지도 API, 카카오 채널API 등<br><br>
 <b>Tool</b> : Eclipse , Sql_Developer<br><br>
 <b>서버</b> : apache tomcat<br><br>
